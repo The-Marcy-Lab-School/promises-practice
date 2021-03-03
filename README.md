@@ -1,4 +1,4 @@
-# Unit 6 Lesson 1 Practice: Promises
+# Practice: Promises
 
 ## Directions
 Fork and clone this lab. Respond to questions in clear, concise sentences directly within this markdown file.
