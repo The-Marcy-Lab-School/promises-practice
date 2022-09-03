@@ -34,7 +34,7 @@ Fork and clone this lab. Respond to questions in clear, concise sentences direct
   ourPromise.then(value => value * 2);
   ```
 
-**5. What does the following code snippet return? What does it log?** <br> _**Note:** Instead of using the `Promise` constructor to create a Promise that immediately resolves to 12, we can just use the [`Promise.resolve`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve) method._
+**5. What does the last line of code return? What does it log?** <br> **Note: Instead of using the `Promise` constructor to create a Promise that immediately resolves to 12, we can just use the [`Promise.resolve`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve) method.**
   ```javascript
   const ourPromise = Promise.resolve(12);
   ourPromise.then(value => value * 2).then(value => value + 10);
